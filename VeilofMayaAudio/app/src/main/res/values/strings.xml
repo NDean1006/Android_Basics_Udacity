@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Veil of Maya Audio</string>
+    <string name="sinopsis">Veil of Maya is an American deathcore band, formed in Chicago, Illinois. The group is currently signed to Sumerian Records.</string>
+    <string name="the_common">The Common Man\'s Collapse</string>
+    <string name="album_expl">This page is the album select page.</string>
+    <string name="mat_expl">This page is the song select page for the Matriach album.</string>
+    <string name="id_expl">This page is the song select page for the id album.</string>
+    <string name="eclipse_expl">This page is the song select page for the Eclipse album.</string>
+    <string name="theCom_expl">This page is the song select page for the album The Colapse of tthe Common Man.</string>
+</resources>

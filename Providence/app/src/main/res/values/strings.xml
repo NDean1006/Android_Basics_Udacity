@@ -1,0 +1,46 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour de Providence</string>
+
+    <string name="category_entertainment">Entertainment</string>
+    <string name="Dunkin_Center">Dunkin\' Donuts Center</string>
+    <string name="Dunkin_Location">
+    1 La Salle Sq.\n
+    Providence, RI 02903-1802\n
+    (401) 331 0700</string>
+
+    <string name="category_events">Events</string>
+    <string name="WaterFire"> WaterFire</string>
+    <string name="WaterFire_location">
+        An award-winning sculpture by Barnaby Evans presented on the rivers of downtown Providence, RI.</string>
+
+    <string name="category_food">Food</string>
+    <!--gracies restaurant -->
+    <string name="Gracies_name">Gracie\'s</string>
+    <!-- Gracies location details -->
+        <string name="Gracies_location">
+            194 Washington Street \n
+            Providence, RI 02903 \n
+            (401) 272-7811</string>
+    <!--Waterman Grille restaurant -->
+    <string name="Waterman_Grille">Waterman Grille</string>
+    <!-- Gracies location details -->
+        <string name="waterman_Location">
+            4 Richmond Square \n
+            Providence, RI 02906 \n
+            (401) 521-9229</string>
+    <!--Fleming's Prime restaurant -->
+    <string name="Flemings_Prime">Fleming\'s Prime</string>
+    <!-- Fleming's Prime location details -->
+        <string name="Flemings_Location">
+            1 W Exchange St. \n
+            Providence, RI 02903 \n
+            (401) 533-9000</string>
+
+    <string name="category_history">History</string>
+    <string name="Roger_Williams_Park">Roger Williams Park</string>
+    <string name="Roger_Williams_location">1000 Elmwood Ave\n
+    Providence, RI 02905 \n
+    (401) 785-3510</string>
+
+</resources>

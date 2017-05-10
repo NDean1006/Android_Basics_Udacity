@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kick Counter</string>
+    <string name="_1_yuko">+1 Yuko</string>
+    <string name="_2_waza_ari">+2 waza-ari</string>
+    <string name="blue_corner">Blue Corner</string>
+    <string name="red_corner">Red Corner</string>
+    <string name="_3_ippon">+3 Ippon</string>
+</resources>

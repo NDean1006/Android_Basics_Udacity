@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NovelLite</string>
+
+    <string name="no_net_connection">No Net Connection</string>
+    <string name="no_search_param">No Search Param</string>
+
+</resources>

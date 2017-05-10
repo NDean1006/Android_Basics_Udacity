@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rivendell</string>
+    <string name="phone_508_252_5798">Phone: 508-252-5798</string>
+    <string name="location_24_winthrop_street_rehoboth_ma_02769">Location: 24 Winthrop Street, Rehoboth, MA 02769</string>
+    <string name="web_www_rivendellbooksandgames_com">Web: WWW.Rivendellbooksandgames.com/</string>
+    <string name="hour_12_00_8_00pm">Hour: 12:00 - 8:00PM</string>
+    <string name="rivendell">Rivendell</string>
+    <string name="books_and_games">Books and Games</string>
+    <string name="a_great_source_for_board_games_collectible_card_games_roleplaying_games_new_used_books_t_shirts_miniatures_collectibles_and_much_more"><![CDATA[A great source for Board Games, Collectible Card Games, Roleplaying Games, new & used books, t-shirts, miniatures, collectibles, and much more!]]></string>
+
+
+</resources>

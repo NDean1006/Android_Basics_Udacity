@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Basic Electronics Quiz</string>
+    <string name="q1">Question 1</string>
+    <string name="Q1T">In regards to electronics. This symbol represents,what?</string>
+    <string name="Q1A">A - Ohms</string>
+    <string name="Q1B">B - Frat house</string>
+    <string name="Q2T">This symbol is the schematic symbol for what component?</string>
+    <string name="q3">Question 3</string>
+    <string name="q2">Question 2</string>
+    <string name="Q4T">In regards to electronics. The abreviation amp stands for amputee</string>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="@dimen/list_item_height"
+              android:minHeight="@dimen/list_item_height"
+              android:background="@color/tan_background"
+>
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="@dimen/list_item_height"
+        android:layout_height="@dimen/list_item_height"
+        tools:src="@mipmap/ic_business_white_24dp"/>
+
+        <LinearLayout
+        android:id="@+id/text_container"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/list_item_height"
+        android:orientation="vertical"
+
+android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_toRightOf="@+id/image"
+            android:paddingLeft="16dp"
+        tools:background="@color/category_food">
+
+            <TextView
+                android:id="@+id/location_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="bottom"
+                tools:text="@string/Gracies_name"
+                android:textStyle="bold"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textColor="@android:color/white"/>
+
+            <TextView
+                android:id="@+id/default_text_view"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:gravity="top"
+                tools:text="@string/Gracies_location"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textColor="@android:color/white"/>
+
+        </LinearLayout>
+
+
+</RelativeLayout>
